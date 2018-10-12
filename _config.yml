@@ -97,7 +97,8 @@ service-worker: true
 
 
 # Friends
-About: [
+Friends: 
+[
     {
         title: "HUST",
         href: "http://www.hust.edu.cn/"
