@@ -97,12 +97,12 @@ service-worker: true
 
 
 # Friends
-friends: [
+About: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "HUST",
+        href: "http://www.hust.edu.cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "ZJU",
+        href: "http://www.zju.edu.cn//"
     }
 ]
