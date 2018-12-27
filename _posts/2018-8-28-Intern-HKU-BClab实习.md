@@ -37,4 +37,3 @@ tags:
 
 我审视了自己的能力，同时发现第三个项目具有较大的拓展性，于是我决定从软体机械臂的结构设计优化入手。
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center =30x30)
