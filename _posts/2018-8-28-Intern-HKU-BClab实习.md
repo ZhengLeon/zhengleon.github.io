@@ -18,9 +18,8 @@ tags:
 
 ## 初期
 到港的第一天我并没有去实验室，因为学长们正忙于调试机器鱼，我也想初步了解一下香港。
-<div align="center">![Screenshot from 2018-04-12 10:51:38.png](https://upload-images.jianshu.io/upload_images/10028058-8f88a15298d8ef12.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-条件随机场模型示意图 </div>
-
- <div align=center>![IMG_2073.jpg](https://i.loli.net/2018/12/27/5c24959d28bc2.jpg)香港叮叮车 </div>
+ <div align=center>![IMG_2073.jpg](https://i.loli.net/2018/12/27/5c24959d28bc2.jpg) </div>
+ <center>叮叮车</center>
+ 
 从深圳的的罗湖口岸入港，坐地铁到香港大学站需要转两次线，前后总共花费一小时左右，金额50港币左右。一到香港，我就买了八达通，事实证明，在香港八达通比手机移动支付管用。我对香港的第一感受是中西结合、古今贯通，此外交通特别发达、空气特别清新、食物特别贵。
 
