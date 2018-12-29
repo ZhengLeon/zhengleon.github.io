@@ -2,7 +2,7 @@
 layout:     post
 title:      Intern-HKU-BClab实习
 subtitle:   
-date:       2018-8-28
+date:       2016-9-8
 author:     Leon
 header-img: img/post-bg-debug.png
 catalog: true
