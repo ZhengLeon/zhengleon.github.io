@@ -18,7 +18,7 @@ sidebar-avatar: /img/QQ图片20170515230425.jpg      # use absolute URL, seeing 
 
 # SNS settings
 RSS: false
-csdn_username:      weixin_41210441
+#csdn_username:      weixin_41210441 由微博替换不成功
 zhihu_username:     leon-30-94
 github_username:    ZhengLeon
 wechat_username:    tallzly
